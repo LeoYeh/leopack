@@ -18,4 +18,4 @@ $ cd projectname.. && npm install && npm run dev
 ```
 ## Recommand
 
-看了這篇 [線上讀書會] (https://www.youtube.com/watch?v=QNIEPHfoZK8)
+看了這篇 [https://www.youtube.com/watch?v=QNIEPHfoZK8] (線上讀書會)
