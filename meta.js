@@ -63,13 +63,9 @@ module.exports = {
                 "short": "none"
             }]
         },
-        "unit": {
+        "vuex": {
             "type": "confirm",
-            "message": "Setup unit tests with Karma + Mocha?"
-        },
-        "e2e": {
-            "type": "confirm",
-            "message": "Setup e2e tests with Nightwatch?"
+            "message": "安裝 Vuex ?"
         }
     },
     "filters": {
@@ -81,5 +77,5 @@ module.exports = {
         "test/e2e/**/*": "e2e",
         "src/router/**/*": "router"
     },
-    "completeMessage": "開始碼農:\n\n  {{^inPlace}}cd {{destDirName}} && npm install && npm run dev \n\n 一行搞定！開始 coding!!"
+    "completeMessage": "開始碼農 \n\n  {{^inPlace}}cd {{destDirName}} \&\& npm install \&\& npm run dev \n\n 一行搞定 開始 coding."
 };
