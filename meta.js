@@ -41,6 +41,10 @@ module.exports = {
             "type": "confirm",
             "message": "安裝 vue-router?"
         },
+        "vuex": {
+            "type": "confirm",
+            "message": "安裝 Vuex?"
+        },
         "lint": {
             "type": "confirm",
             "message": "Use ESLint to lint your code?"
